@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grapes Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="comment">消息</string>
+    <string name="friends">好友</string>
+    <string name="update">动态</string>
+    <string name="add_friend">添加好友</string>
+    <string name="login">登录</string>
+    <string name="logout">注销</string>
+    <string name="back">返回</string>
+    <string name="input_user_name">请输入用户名</string>
+    <string name="password_gt_3">密码需要大于 3 位</string>
+    <string name="password_not_equal">输入密码不一致</string>
+    <string name="login_info_fail">登录信息失效</string>
+    <string name="account_hint">账号/手机号/邮箱</string>
+    <string name="password_hint">密码</string>
+    <string name="can_not_login">无法登录？</string>
+    <string name="register">注册</string>
+    <string name="nick_name">昵称</string>
+    <string name="confirm_password">确认密码</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5233</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="transparent">#0000</color>
+    <color name="activity_background">#EAEDED</color>
+    <color name="button_background">#4ea6fd</color>
+    <color name="login_background">#e9f2fa</color>
+    <color name="text_normal">#A6ACAF</color>
+    <color name="text_dark">#616A6B</color>
+</resources>
